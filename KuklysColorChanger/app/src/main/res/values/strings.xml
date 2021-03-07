@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KuklysColorChanger</string>
+    <string name="vardasPavarde">Žygimantas Kuklys</string>
+    <string name="greenBtn">GREEN</string>
+    <string name="blueBtn">BLUE</string>
+    <string name="redBtn">RED</string>
+    <string name="yellowBtn">YELLOW</string>
+    <string name="textGreen">GREEN</string>
+    <string name="textRed">RED</string>
+    <string name="textBlue">BLUE</string>
+    <string name="textYellow">YELLOW</string>
+</resources>

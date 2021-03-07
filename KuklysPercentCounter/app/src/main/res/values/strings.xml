@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KuklysPrecentCounter</string>
+    <string name="title">Precent counter</string>
+    <string name="enterAmount">Enter amount</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+    <string name="vardasPavarde">Žygimantas Kuklys</string>
+</resources>
